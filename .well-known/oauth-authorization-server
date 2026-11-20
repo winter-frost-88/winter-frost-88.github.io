@@ -20,7 +20,8 @@
     "S256"
   ],
   "scopes_supported": [
-    "recipes:read"
+    "recipes:read",
+    "receipts:read"
   ],
   "authorization_response_iss_parameter_supported": true
 }
